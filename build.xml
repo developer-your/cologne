@@ -2,4 +2,6 @@
 
 <!-- build xml -->
 
-<project name="PHP study" default="main
+<project name="PHP study" default="main">
+    <target name="main"/>
+</project>
